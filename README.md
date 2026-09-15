@@ -4,8 +4,8 @@
 в консоли на C++ с использованием принципов ООП и Windows API.
 
 ## Демонстрация 
-![Меню](images\menu.png)
-![Геймплей](images\gameplay.png)
+![Меню](https://github.com/marmelinho/Tetris/blob/main/images/menu.png)
+![Геймплей](https://github.com/marmelinho/Tetris/blob/main/images/gameplay.png)
 
 ## Стек
 - С++
